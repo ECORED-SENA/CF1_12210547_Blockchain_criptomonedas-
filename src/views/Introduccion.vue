@@ -13,8 +13,8 @@
     p.mb-5(data-aos="fade-left") Se invita a consultar el siguiente video de introducción al tema:
 
     figure.mb-5(data-aos="fade-right")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video        
+        iframe(width="788" height="443" src="https://www.youtube.com/embed/qH_Z2nA3Ycw" title="Análisis y evaluación de aplicar blockchain en esquemas de inversión" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-0(data-aos="fade-left") Ahora, es momento de profundizar en la temática analizando y evaluando la aplicación de <i>Blockchain</i> en esquemas de inversión.
 </template>

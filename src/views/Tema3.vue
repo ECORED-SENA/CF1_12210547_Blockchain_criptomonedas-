@@ -79,8 +79,8 @@
     p.mb-5 Lo que hace que sean monedas estables es precisamente como se ha visto, ese respaldo que tiene cada una. Vea un poco más en qué consiste dicho respaldo de estas criptomonedas:
 
     figure.mb-5(data-aos="fade-left")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video      
+        iframe(width="788" height="443" src="https://www.youtube.com/embed/zRYyrBJBjj4" title="Stablecoin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     .d-flex.justify-content-center.mb-4(data-aos="fade-right")
