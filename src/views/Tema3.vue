@@ -60,7 +60,7 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6.col-12
-        img(src='@/assets/curso/tema3/img07.svg')
+        img(src='@/assets/curso/tema3/img07.jpg')
 
     .d-flex.justify-content-center.mb-4
       h3.texto-blanco.p-2.px-5(style="background-color: #2754ba") <i>Stable Coins</i>
@@ -172,7 +172,7 @@
           p.mb-4 Debido a la alta volatilidad de las criptomonedas se pueden operar de varias formas: una de ellas es la especulación, cuya acción principal es comprar barato y vender caro; sin embargo, en el mercado de criptodivisas calcular el valor de “barato” o “caro” no es tan sencillo, pues depende de la oferta y la demanda. Se puede operar con la <i>exchange</i> (compra física) o los CFD (contratos por diferencia, no se adquiere físicamente la moneda).
           p.mb-lg-0.mb-4 Otra forma de operar es con los fondos de inversión. La regla general de todo inversionista es diversificar ingresos, es decir, al invertir en un amplio portafolio de criptomonedas y activos tangibles (oro), y como el valor de cada criptomoneda no está estrechamente ligado a las demás, puede ocurrir una baja abrupta en el <i>Bitcoin</i> (por ejemplo), pero las otras criptodivisas mantendrán su valor o inclusive repuntar en un alza mucho mayor, así la inversión se puede proteger y obtener ganancias en un corto plazo.
         .col-lg-5.col-8
-          img(src='@/assets/curso/tema3/img20.png')
+          img.miimg(src='@/assets/curso/tema3/img20.png')
       p.mb-4 Pero, llegado el caso de colapsar el mercado de las criptodivisas, la inversión aún se mantiene protegida por el portafolio de los activos tangibles en los que se ha invertido. Y si las criptodivisas hacen un repunte de todas en conjunto, sería la situación ideal (rendimientos en todos los activos del portafolio invertido). El objetivo es contar con un equilibrio que se adapte a nuestra cartera de inversión y a las especulaciones que se pueden descifrar del mercado.
       p.mb- En este caso manda la frase célebre de “no poner todos los huevos en una misma cesta”, por lo cual es importante diversificar como se ve a continuación:
 
@@ -201,8 +201,8 @@
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-12
-        .titulo-sexto.color-acento-botones
-          span <b>Figura 1.</b> ICO
+        .titulo-sexto.color-acento-botones(style="border-left-color: #ff8900")
+          span <b>Figura 2.</b> ICO vs. STO
         figure
           img(src='@/assets/curso/tema3/img22.svg')
           figcaption Nota. Adaptado de ESIC (2018). ¿Qué es una ICO de criptomoneda? https://www.esic.edu/rethink/comercial-y-ventas/que-es-una-ico-de-criptomoneda

@@ -154,7 +154,7 @@
             p.mb-0.mb-lg-0.mb-4 Es una alternativa al PoW para <i>Blockchain</i> públicas. En este caso, los nodos validan los nuevos bloques de la cadena en una especie de lotería, en donde los boletos serían el <i>token</i> de turno. Este tipo de mecanismos es muy ágil, pero puede tener una desventaja, por ejemplo, en quienes tengan más criptoactivos, más criptoactivos ganan. 
           .col-10.col-lg-5
             img(src='@/assets/curso/tema1/img20.png')
-        .row.justify-content-center.py-4.py-md-5.px-4(titulo="DPoS" :icono="require('@/assets/curso/tema1/img17.svg')")
+        .row.justify-content-center.py-4.py-md-5.px-4(titulo="DPoS" :icono="require('@/assets/curso/tema1/img16.svg')")
           .col-12.col-lg-7
             h4.mb-4 Prueba de participación delegada (DPoS)
             p.mb-0.mb-lg-0.mb-4 Es una versión del PoS en el que los propietarios del criptoactivo eligen testigos (de allí su denominación delegada), permitiendo una gran descentralización que puede beneficiar potencialmente a pequeños propietarios; pero puede facilitar posibles prácticas anticompetitivas que podrían promover la cartelización, lo cual iría en contra de la libre y sana competencia.

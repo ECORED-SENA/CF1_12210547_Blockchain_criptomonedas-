@@ -99,9 +99,9 @@
           td.p-0
             img.cuadradito.d-inline(src='@/assets/curso/tema2/img15.svg')
           td.px-2.p-0
-            h4.mb-0 Salvaguardar la eficacia de los 
-            hr.m-0
-            h4.mb-0 medicamentos
+            h4.mb-0 Salvaguardar la eficacia de los medicamentos
+            hr.m-0  
+            h4.mb-0          
 
       p.mb-5 Sonoco e IBM están trabajando para reducir los problemas en el transporte de medicamentos que salvan vidas, aumentando la transparencia de la cadena de suministro. Desarrollado por IBM <i>Blockchain</i> <i>Transparent Supply</i>, <i>Pharma Portal</i> es una plataforma basada en <i>Blockchain</i> que rastrea productos farmacéuticos con control de temperatura. a través de la cadena de suministro para proporcionar datos confiables y precisos en múltiples partes (IBM, 2022).
       .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
@@ -125,9 +125,9 @@
           td.p-0
             img.cuadradito.d-inline(src='@/assets/curso/tema2/img15.svg')
           td.px-2.p-0
-            h4.mb-0 Inspirando confianza en las relaciones entre minoristas y 
-            hr.m-0
-            h4.mb-0 proveedores
+            h4.mb-0 Inspirando confianza en las relaciones entre minoristas y proveedores
+            hr.m-0     
+            h4.mb-0        
 
       p.mb-5 The <i>Home Depot</i> utiliza contratos inteligentes en <i>Blockchain</i> para solucionar rápidamente las disputas con los proveedores. A través de la comunicación en tiempo real y una mayor visibilidad de la cadena de suministro están construyendo relaciones más sólidas con los proveedores, lo que da como resultado más tiempo para el trabajo fundamental y la innovación (IBM, 2022).
       .row.align-items-center.justify-content-center.mb-5(data-aos="fade-left")
@@ -150,9 +150,9 @@
           td.p-0
             img.cuadradito.d-inline(src='@/assets/curso/tema2/img15.svg')
           td.px-2.p-0
-            h4.mb-0 Hacer que el comercio internacional sea más rápido y 
+            h4.mb-0 Hacer que el comercio internacional sea más rápido y eficiente
             hr.m-0
-            h4.mb-0 eficiente
+            h4.mb-0 
 
       p.mb-5 Al unirse a we.trade, la red de financiamiento comercial convocada por IBM <i>Blockchain</i>, las empresas están creando un ecosistema de confianza para el comercio global. Como plataforma basada en <i>Blockchain</i>, we.trade utiliza reglas estandarizadas y opciones de negociación simplificadas para reducir la fricción y el riesgo, al mismo tiempo que facilita el proceso de negociación y amplía las oportunidades comerciales para las empresas y los bancos participantes (IBM, 2022).
       .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")

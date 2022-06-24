@@ -7,11 +7,21 @@ figcaption
   background-color: #e8e8e8 !important
   font-weight: normal !important
 
+.bloque-texto-g.color-secundario
+  background-color: #2754ba
+
+
 a.boton.color-acento-botones
   span 
     color: $color-sistema-texto
   i 
     color: $color-sistema-texto
+  &:hover
+    span 
+      color: $color-sistema-texto !important
+    i 
+      color: $color-sistema-texto !important
+
 
 .tarjeta1
     border-radius: 21px
@@ -31,10 +41,11 @@ a.boton.color-acento-botones
     border: none
     vertical-align: top;
     hr 
-      width: 120% !important
+      width: 100% !important
       color: #2754ba
       border-color: #2754ba
-      height: 2px;
+      opacity: 1
+      height: 1.5px;
 
 
 .cajon.color-acento-contenido 
@@ -277,4 +288,90 @@ a.boton.color-acento-botones
 
 
     
+.banner-principal__img
+  img
+    position: relative
+    z-index: 1000
 
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 78%
+    right: 63%
+    width: 72px
+    height: 76px
+
+  &-2
+    animation: zoom1 2.5s ease-in-out infinite alternate
+    position: absolute
+    top: 52%
+    right: 82%
+    width: 72px
+    height: 76px
+
+  &-3
+    animation: float1 4.5s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 53%
+    width: 72px
+    height: 76px
+
+  &-4
+    animation: zoom1 1.5s ease-in-out infinite alternate
+    position: absolute
+    top: 22%
+    right: 73%
+    width: 72px
+    height: 76px
+
+  &-5
+    animation: float1 2.5s ease-in-out infinite alternate
+    position: absolute
+    top: 9%
+    right: 45%
+    width: 72px
+    height: 76px
+
+  &-6
+    animation: zoom1 3.0s ease-in-out infinite alternate
+    position: absolute
+    top: 15%
+    right: 12%
+    width: 72px
+    height: 76px
+
+  &-7
+    animation: float1 2.0s ease-in-out infinite alternate
+    position: absolute
+    top: 39%
+    right: 0%
+    width: 72px
+    height: 76px
+
+  &-8
+    animation: zoom1 4.0s ease-in-out infinite alternate
+    position: absolute
+    top: 83%
+    right: 0%
+    width: 72px
+    height: 76px
+  // &-2
+  //   animation: zoom1 2.8s ease-in-out infinite alternate
+  //   position: absolute
+  //   top: 0%
+  //   right: 0%
+
+
+@keyframes float1
+  0%
+    transform: translateY(20px)
+  100%
+    transform: translateY(0px)
+
+@keyframes zoom1
+  0%
+    transform: scale(1.2)
+  100%
+    transform: scale(0.8)

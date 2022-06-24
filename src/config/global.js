@@ -6,6 +6,44 @@ export default {
       'El avance de <i>Blockchain</i> llegó para dar mayor dinamismo y autonomía a un sector gobernado por pocos, con la promesa en cuanto a trazabilidad, anonimato, inmutabilidad, interoperabilidad, seguridad y al ingenio de empresarios y aficionados, generando nuevas maneras de utilizarla. Una de ellas son los diferentes esquemas de inversión y cómo se han vinculado a la dinámica económica y financiera.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/coin1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/coin2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/coin3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/coin4.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/coin5.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-6', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/coin6.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-7', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/coin7.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-8', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/coin8.svg'),
+      },
+      // {
+      //   clases: ['banner-principal-decorativo-2'],
+      //   imagen: require('@/assets/curso/banner-principal-decorativo-2.svg'),
+      // },
+    ],
   },
   menuPrincipal: {
     menu: [
