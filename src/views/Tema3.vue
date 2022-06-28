@@ -254,7 +254,7 @@
 
     .fondo6.py-4(data-aos="fade-left")
       .titulo-sexto.color-acento-botones
-        span.texto-blanco <b>Figura 1.</b> ICO vs. STO
+        span.texto-blanco <b>Figura 3.</b> ICO vs. STO
       figure.miimg
         img(src='@/assets/curso/tema3/img23.svg')
     div(style="background-color: #2754ba; height: 17px")
