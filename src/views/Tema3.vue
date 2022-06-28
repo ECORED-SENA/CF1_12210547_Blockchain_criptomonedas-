@@ -130,25 +130,25 @@
         .col-12.col-md-6.col-lg-3.d-flex.mb-lg-0.mb-4
           .tarjeta1.w-100.p-4.pt-5  
             div.d-flex.justify-content-center.mb-5        
-              img(style="width: 159px; height: 159px" src='@/assets/curso/tema1/img08.png')
+              img(style="width: 159px; height: 159px" src='@/assets/curso/tema3/img100.png')
             h3.text-center.mb-0 La oportunidad de hacer negocios y generar ingresos.            
 
         .col-12.col-md-6.col-lg-3.d-flex.mb-lg-0.mb-4
           .tarjeta1.w-100.p-4.pt-5  
             div.d-flex.justify-content-center.mb-5        
-              img(style="width: 159px; height: 159px" src='@/assets/curso/tema1/img09.png')
+              img(style="width: 159px; height: 159px" src='@/assets/curso/tema3/img101.png')
             h3.text-center.mb-0 Elegir el tipo de inversión que más te acomode.            
 
         .col-12.col-md-6.col-lg-3.d-flex.mb-lg-0.mb-4
           .tarjeta1.w-100.p-4.pt-5  
             div.d-flex.justify-content-center.mb-5        
-              img(style="width: 159px; height: 159px" src='@/assets/curso/tema1/img10.png')
+              img(style="width: 159px; height: 159px" src='@/assets/curso/tema3/img102.png')
             h3.text-center.mb-0 Conseguir acceso a otros mercados.            
 
         .col-12.col-md-6.col-lg-3.d-flex.mb-lg-0.mb-4
           .tarjeta1.w-100.p-4.pt-5  
             div.d-flex.justify-content-center.mb-5        
-              img(style="width: 159px; height: 159px" src='@/assets/curso/tema1/img11.png')
+              img(style="width: 159px; height: 159px" src='@/assets/curso/tema3/img103.png')
             h3.text-center.mb-0 Puedes diversificar tu inversión en distintos activos.            
       figcaption.mb-5(style="background-color: #f6f6f6 !important") Nota. Adaptado de BBVA (2022). Mitos y verdades sobre invertir en <i>Bitcoin</i> y criptomonedas. https://www.bbva.mx/educacion-financiera/banca-digital/invertir-en-bitcoin.html
 
