@@ -385,7 +385,7 @@ export default {
         nombre: 'Darío González',
         cargo: 'Corrección de estilo',
         centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
-      },      
+      },
     ],
     desarrolloProducto: [
       {
