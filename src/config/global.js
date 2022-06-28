@@ -360,6 +360,32 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Norma Constanza Morales Cruz',
+        cargo: 'Experta temática',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Abel Fernando Becerra Carrillo',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de la industria, la empresa y los servicios Región Norte de Santander',
+      },
+      {
+        nombre: 'Zvi Daniel Grosman',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Asesor metodológico',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },      
     ],
     desarrolloProducto: [
       {
