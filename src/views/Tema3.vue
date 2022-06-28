@@ -124,7 +124,7 @@
 
       p.mb-5(data-aos="fade-left") Puede ser que a futuro las criptomonedas reemplacen el dinero en efectivo y las tarjetas de crédito, aunque por ahora, las monedas digitales existentes son tan solo un pequeño porcentaje comparado con todo el dinero físico que existe en el mundo, lo que hace una opción bastante interesante de inversión a largo plazo (BBVA, 2022).
 
-      h3.text-center Beneficios de invertir en criptomonedas
+      h3.mb-5.text-center Beneficios de invertir en criptomonedas
 
       .row.justify-content-center.miimg(data-aos="fade-right")
         .col-12.col-md-6.col-lg-3.d-flex.mb-lg-0.mb-4
@@ -202,7 +202,7 @@
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-botones(style="border-left-color: #ff8900")
-          span <b>Figura 2.</b> ICO vs. STO
+          span <b>Figura 1.</b> ICO
         figure
           img(src='@/assets/curso/tema3/img22.svg')
           figcaption Nota. Adaptado de ESIC (2018). ¿Qué es una ICO de criptomoneda? https://www.esic.edu/rethink/comercial-y-ventas/que-es-una-ico-de-criptomoneda
