@@ -202,7 +202,7 @@
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-botones(style="border-left-color: #ff8900")
-          span <b>Figura 1.</b> ICO
+          span <b>Figura 2.</b> ICO
         figure
           img(src='@/assets/curso/tema3/img22.svg')
           figcaption Nota. Adaptado de ESIC (2018). ¿Qué es una ICO de criptomoneda? https://www.esic.edu/rethink/comercial-y-ventas/que-es-una-ico-de-criptomoneda
