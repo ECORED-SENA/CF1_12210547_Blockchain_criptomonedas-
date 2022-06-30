@@ -36,14 +36,14 @@
     .d-flex.justify-content-center.mb-5
       h3.texto-blanco.p-2.px-5(style="background-color: #2754ba") Tipos de billeteras
 
-    p.mb-5(data-aos="fade-left") Las wallets, como fue mencionado, son un eslabón principal debido a que son la única forma en la que se puede enviar y recibir <i>criptos</i>, permite la consulta de saldo, entre otras operaciones (Brandoni, 2021).
+    p.mb-5(data-aos="fade-left") Las <i>wallets</i>, como fue mencionado, son un eslabón principal debido a que son la única forma en la que se puede enviar y recibir <i>criptos</i>, permite la consulta de saldo, entre otras operaciones (Brandoni, 2021).
 
     .row.align-items-center.justify-content-center.mb-5.fondo2(data-aos="fade-right")
       .col-lg-4.col-8
         img.mb-lg-0.mb-4(src='@/assets/curso/tema3/img04.png')
       .col-lg-8.col-12.py-4
         p.mb-4 Dentro del segundo grupo, <i>Hot Wallets</i>, se encuentran a su vez dos tipos, las que están instaladas en el escritorio o smartphone, que son más susceptibles a ser jaqueadas que las que no se encuentran conectadas a Internet, pero a la vez, brindan una mejor accesibilidad para operaciones diarias y, las online que funcionan directamente desde un sitio <i>web</i>, en este tipo de billetera sucede en muchos casos que la custodia de las claves privadas está en manos de terceros, lo que reduce la confianza, pues si la billetera es quebrantada, se podría perder todo el dinero, pero a su vez brinda la posibilidad de recuperar las claves en caso de ser olvidadas.
-        p.mb-0 Por cada tipo de criptomoneda que se desea tener en cartera se debe crear una <i>wallet</i> específica, así como en las cuentas bancarias tradicionales se tiene una cuenta para los pesos colombianos, otra para dólares, entre otras. Una vez que se obtuvo la billetera se debe adquirir las criptomonedas propiamente dichas. Estas pueden obtenerse por diferentes medios, entre ellos existen, la propia <i>wallet</i> (generalmente las mejores billeteras dan la posibilidad de poder comprarlas); ciertas <i>exchange</i> o plataforma digital de intercambio como <i>Coinbase, Kraken, Binance, Hitbtc, Bitsquare</i>, las cuales varían entre accesibilidad, comisiones y operabilidad. También, en los brokers que operen <i>Forex</i> se pueden obtener, intercambiándose por USD, EUR u otra divisa y, por último, el minado, que además de ser un método que no todas las monedas digitales lo permiten, hoy en día se necesitan recursos muy potentes para poder realizarlo.
+        p.mb-0 Por cada tipo de criptomoneda que se desea tener en cartera se debe crear una <i>wallet</i> específica, así como en las cuentas bancarias tradicionales se tiene una cuenta para los pesos colombianos, otra para dólares, entre otras. Una vez que se obtuvo la billetera se debe adquirir las criptomonedas propiamente dichas. Estas pueden obtenerse por diferentes medios, entre ellos existen, la propia <i>wallet</i> (generalmente las mejores billeteras dan la posibilidad de poder comprarlas); ciertas <i>exchange</i> o plataforma digital de intercambio como <i>Coinbase, Kraken, Binance, Hitbtc, Bitsquare</i>, las cuales varían entre accesibilidad, comisiones y operabilidad. También, en los <i>brokers</i> que operen <i>Forex</i> se pueden obtener, intercambiándose por USD, EUR u otra divisa y, por último, el minado, que además de ser un método que no todas las monedas digitales lo permiten, hoy en día se necesitan recursos muy potentes para poder realizarlo.
 
     .d-flex.justify-content-center.mb-4
       h3.texto-blanco.p-2.px-5(style="background-color: #2754ba") Tipos de criptomonedas
@@ -55,7 +55,7 @@
         .col-lg-10.col-12
           p.mb-0 En el mercado, actualmente existen 7.165 criptomonedas (valor a septiembre de 2020, según <i>Coinmarketcap</i>) y aunque no se puede negar que la tecnología <i>Blockchain</i> es la más solicitada por la mayoría, cada una tiende a contar con tecnología, encriptación y filosofía distinta, con el fin de convertirse en monedas globales y descentralizadas.
 
-    p.mb-4 La inversión en criptomonedas requiere de la validación de las características que poseen para definir si invertir o no en ellas. Esas características se refieren a la tecnología en que se basan, si existen mejoras respecto a fallas encontradas en una moneda digital diferente, transacciones más rápidas, el capital que abarcan en el mercado, el volumen de transacciones, debido a que si es una moneda que  tiene baja liquidez, al comercializarla se verán los obstáculos, pues pocas personas estarían interesadas en adquirirla. Otra variable que puede hablar del éxito o fortaleza de la criptomoneda es el tamaño de la comunidad y si su respaldo recae en empresas o gobiernos, si es aceptada en las exchanges o plataforma digital de intercambio y como medio de pago.
+    p.mb-4 La inversión en criptomonedas requiere de la validación de las características que poseen para definir si invertir o no en ellas. Esas características se refieren a la tecnología en que se basan, si existen mejoras respecto a fallas encontradas en una moneda digital diferente, transacciones más rápidas, el capital que abarcan en el mercado, el volumen de transacciones, debido a que si es una moneda que  tiene baja liquidez, al comercializarla se verán los obstáculos, pues pocas personas estarían interesadas en adquirirla. Otra variable que puede hablar del éxito o fortaleza de la criptomoneda es el tamaño de la comunidad y si su respaldo recae en empresas o gobiernos, si es aceptada en las <i>exchanges</i> o plataforma digital de intercambio y como medio de pago.
     p.mb-5 Otro tema que puede evaluarse es si se prefiere arriesgar por una nueva moneda en el mercado o una que ya tenga una cierta trayectoria. Ciertamente existen muchas variables a considerar, pero al menos estas son las básicas que se deberían analizar a la hora de decidir invertir en cualquier criptomoneda. Aunque existen un poco más de 7.000 criptomonedas, a continuación, se presentan las tres monedas digitales con mayor posición en el mercado, según el reporte anual del año 2019 de CoinGecko que son: 
 
     .row.align-items-center.justify-content-center.mb-5
@@ -63,7 +63,7 @@
         img(src='@/assets/curso/tema3/img07.jpg')
 
     .d-flex.justify-content-center.mb-4
-      h3.texto-blanco.p-2.px-5(style="background-color: #2754ba") <i>Stable Coins</i>
+      h3.texto-blanco.p-2.px-5(style="background-color: #2754ba") <i>Stablecoins</i>
 
     p.mb-5 También llamadas monedas estables son un tipo de criptomoneda, pero como indica su nombre, se diferencian de las analizadas porque tienen el objetivo de evitar la volatilidad que las caracteriza, aunque manteniendo sus ventajas. Las mismas pueden encontrarse ancladas a una moneda <i>Fiat</i>, a bienes materiales como el oro, a otra criptomoneda o incluso algunas no están asociadas a un activo; pero sí son controladas mediante algoritmos para mantener su valor. 
 
@@ -72,7 +72,7 @@
         .col-lg-2.col-8.d-flex.justify-content-center
           img.mb-lg-0.mb-4(style="width:63px" src='@/assets/curso/tema3/img08.png')
         .col-lg-10.col-12
-          p.mb-0 En comparación con las criptomonedas tradicionales, las stablecoins están pensadas para abordar el problema de la volatilidad, siendo una intermediaria entre las cripto y las monedas tradicionales. Logran así, ser utilizadas realmente como instrumentos de pago y medida de valor. Un ejemplo de ello es el caso de una stablecoin que está anclada al dólar, una unidad de esa moneda vale lo mismo que un dólar; pero con la diferencia que esta es descentralizada, privada y libre de las regulaciones que puedan ponerles los gobiernos a las monedas <i>Fiat</i>.
+          p.mb-0 En comparación con las criptomonedas tradicionales, las <i>stablecoins</i> están pensadas para abordar el problema de la volatilidad, siendo una intermediaria entre las cripto y las monedas tradicionales. Logran así, ser utilizadas realmente como instrumentos de pago y medida de valor. Un ejemplo de ello es el caso de una stablecoin que está anclada al dólar, una unidad de esa moneda vale lo mismo que un dólar; pero con la diferencia que esta es descentralizada, privada y libre de las regulaciones que puedan ponerles los gobiernos a las monedas <i>Fiat</i>.
 
 
     p.mb-4 Respaldadas por moneda <i>Fiat</i> es el modelo de respaldo más usado, el criptoactivo es garantizado por monedas como el dólar, euro o yen japonés, cada <i>token</i> se respalda en igual proporción (1:1). El inconveniente que puede surgir es la transparencia en cuanto a sus reservas, ya que por cada stablecoin debe existir un depósito de la moneda que lo respalda. Para evitar esta situación, constantemente se deben realizar procesos de auditoría, que permiten garantizar el respaldo correcto de los <i>tokens</i>.
@@ -118,7 +118,7 @@
         .col-lg-7.col-12
           p.mb-4 Muchos detractores afirman que la operación en el mercado de las criptomonedas es sinónimo de blanqueamiento o lavado de dinero por actividades ilegales; pero la realidad es que existe poca probabilidad de que esto ocurra, porque no es posible lavar grandes sumas de dinero, debido a la restricción de emisión de criptomonedas por la misma red y el efectivo sigue siendo el favorito de las organizaciones criminales.
           p.mb-4 Otro aspecto fundamental es que las criptomonedas no son fácilmente falsificables, ya que operan bajo sus propios códigos y cada transacción genera un registro que se apila en un libro maestro, y lograr modificar esa cadena de bloques es una tarea casi imposible, debido a que se debería modificar todo el libro de registros.
-          p.mb-lg-0.mb-4 Las criptomonedas se han convertido en una alternativa de inversión a los bonos, el oro, acciones de empresas, etc, por ejemplo, de acuerdo con la BBC, para enero de 2009 el precio de <i>Bitcoin</i> estaba por debajo de 1 USD, en 2017 alcanzó una cotización de 20.000 USD, en 2018 debido a la incertidumbre por la semejanza a la burbuja de la crisis económica de 2008 en Estados Unidos cayó hasta 3.200 USD; pero el año siguiente repuntó y llegó hasta los 13.800 USD, en 2020 estaba alrededor de 9.000 USD y en marzo de 2022 alcanza una cotización de 39.428 USD.
+          p.mb-lg-0.mb-4 Las criptomonedas se han convertido en una alternativa de inversión a los bonos, el oro, acciones de empresas, etc., por ejemplo, de acuerdo con la BBC, para enero de 2009 el precio de <i>Bitcoin</i> estaba por debajo de 1 USD, en 2017 alcanzó una cotización de 20.000 USD, en 2018 debido a la incertidumbre por la semejanza a la burbuja de la crisis económica de 2008 en Estados Unidos cayó hasta 3.200 USD; pero el año siguiente repuntó y llegó hasta los 13.800 USD, en 2020 estaba alrededor de 9.000 USD y en marzo de 2022 alcanza una cotización de 39.428 USD.
         .col-lg-5.col-8
           img.miimg(src='@/assets/curso/tema3/img17.png')
 
@@ -288,7 +288,7 @@ export default {
       {
         titulo: '<i>Payment</i> <i>Tokens</i> ',
         texto:
-          'En estos casos, su uso es exclusivamente para ejecutar pagos. Este tipo de <i>token</i> es el utilizado en stablecoins como DAI, donde su uso es realizar pagos, no genera dividendos, no se va a valorizar, ni va a generar otra clase de utilidad.',
+          'En estos casos, su uso es exclusivamente para ejecutar pagos. Este tipo de <i>token</i> es el utilizado en <i>stablecoins</i> como DAI, donde su uso es realizar pagos, no genera dividendos, no se va a valorizar, ni va a generar otra clase de utilidad.',
         imagen: require('@/assets/curso/tema3/img13.png'),
       },
       {

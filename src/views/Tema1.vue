@@ -94,7 +94,7 @@
               img(style="width: 159px; height: 159px" src='@/assets/curso/tema1/img09.png')
 
             h3.text-center.mb-5 Fondos de inversión de <i>Blockchain</i>
-            p.text-center.mb-0 otra forma es a través de estos fondos de inversión, la ventaja de su uso radica en que estos productos financieros en contraste a las acciones pueden realizarse a precios más bajos. La cartera de estos fondos se compone por valores de diversas empresas dentro o fuera de un país, gracias a esto, si hay alguna caída bursátil, otra compañía lo puede compensar.
+            p.text-center.mb-0 Otra forma es a través de estos fondos de inversión, la ventaja de su uso radica en que estos productos financieros en contraste a las acciones pueden realizarse a precios más bajos. La cartera de estos fondos se compone por valores de diversas empresas dentro o fuera de un país, gracias a esto, si hay alguna caída bursátil, otra compañía lo puede compensar.
 
         .col-12.col-md-6.col-lg-3.d-flex.mb-lg-0.mb-4
           .tarjeta1.w-100.p-4.pt-5  

@@ -12,7 +12,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 ¿Cuál es la opción correcta? 
-        p.mb-4 Esta actividad le permitirá determinar el grado de apropiacián de los contenidos del componente formativo: Análisis y evaluación de aplicar <i>Blockchain</i> en esquemas de inversión.
+        p.mb-4 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo: Análisis y evaluación de aplicar <i>Blockchain</i> en esquemas de inversión.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

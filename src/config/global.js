@@ -118,11 +118,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      // {
+      //   icono: 'fas fa-download',
+      //   titulo: 'Descargar material',
+      //   download: 'downloads/material.zip',
+      // },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -239,7 +239,7 @@ export default {
         'Son programas que se almacenan en una cadena de bloques o <i>Blockchain</i>, y se ejecutan cuando se cumplen una serie de condiciones establecidas sin la intervención de un intermediario, por lo tanto, sus implicados obtienen los resultados de manera inmediata (IBM, 2022).',
     },
     {
-      termino: 'Crowdsale',
+      termino: '<i>Crowdsale</i>',
       significado:
         'El acto de generar y ofrecer <i>tokens</i> que se estructura normalmente como un proceso de subasta a través de Internet, reduciendo los costes de transacción y estableciendo unas condiciones de gobernanza inmutables.',
     },
@@ -249,7 +249,7 @@ export default {
         'Es una contracción de la oferta monetaria en una economía, que puede provocar una bajada general de los precios de una economía, es decir, lo contrario a la inflación. O en otros términos, al reducirse la oferta monetaria genera la reducción de los precios, aumentando el valor de la moneda, lo cual incrementa su poder adquisitivo.',
     },
     {
-      termino: 'Distributed Ledger Technology (DLT)',
+      termino: '<i>Distributed Ledger Technology (DLT)</i>',
       significado:
         'Tecnología de libro mayor distribuido, se puede definir la DLT como aquella tecnología que permite que grandes grupos de nodos en las redes del libro mayor distribuido se pongan de acuerdo y registren información sin necesidad de una autoridad central.',
     },
@@ -294,7 +294,7 @@ export default {
     {
       tema: 'Esquemas de inversión',
       referencia:
-        'Alvárez, E. (2021). El <i>Blockchain</i> como almacén de datos y registro de <i>tokens</i>. Universidad Pontificia.',
+        'Álvarez, E. (2021). El <i>Blockchain</i> como almacén de datos y registro de <i>tokens</i>. Universidad Pontificia.',
       tipo: 'PDF',
       descarga: '/downloads/anexo1.pdf',
     },
@@ -340,7 +340,7 @@ export default {
     {
       tema: 'Esquema de inversión Ponzi',
       referencia:
-        'Corredor, D. (2020)¿Son las populares cadenas una puerta de acceso a las pirámides financieras tipo Ponzi? Un ejercicio experimental desde la economía del comportamiento. Universidad de La Salle.',
+        'Corredor, D. (2020) ¿Son las populares cadenas una puerta de acceso a las pirámides financieras tipo Ponzi? Un ejercicio experimental desde la economía del comportamiento. Universidad de La Salle.',
       tipo: 'Tesis de grado',
       link: 'https://ciencia.lasalle.edu.co/economia/1652/',
     },

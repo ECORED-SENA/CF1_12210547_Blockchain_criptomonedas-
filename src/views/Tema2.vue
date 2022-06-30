@@ -103,7 +103,7 @@
             hr.m-0  
             h4.mb-0          
 
-      p.mb-5 Sonoco e IBM están trabajando para reducir los problemas en el transporte de medicamentos que salvan vidas, aumentando la transparencia de la cadena de suministro. Desarrollado por IBM <i>Blockchain</i> <i>Transparent Supply</i>, <i>Pharma Portal</i> es una plataforma basada en <i>Blockchain</i> que rastrea productos farmacéuticos con control de temperatura. a través de la cadena de suministro para proporcionar datos confiables y precisos en múltiples partes (IBM, 2022).
+      p.mb-5 Sonoco e IBM están trabajando para reducir los problemas en el transporte de medicamentos que salvan vidas, aumentando la transparencia de la cadena de suministro. Desarrollado por IBM <i>Blockchain</i> <i>Transparent Supply</i>, <i>Pharma Portal</i> es una plataforma basada en <i>Blockchain</i> que rastrea productos farmacéuticos con control de temperatura a través de la cadena de suministro para proporcionar datos confiables y precisos en múltiples partes (IBM, 2022).
       .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
         .col-lg-8.col-12
           .tarjeta.color-primario.p-3
@@ -167,7 +167,7 @@
                     h4.mb-1 IBM <i>Blockchain</i>:
                     p.text-small.mb-0 Transformando la financiación del comercio y el comercio.
                   .col-sm-auto
-                    a.boton.color-acento-botones(href="https://www.ibm.com/case-studies/the-home-depot/" target="_blank")
+                    a.boton.color-acento-botones(href="https://cutt.ly/HAd2hFX" target="_blank")
                       span Ir a sitio web
                       i.fas.fa-link
 
