@@ -43,9 +43,37 @@
 
       p.mb-5 Muchos casos famosos han sucedido bajo el esquema Ponzi, aun teniendo conocimiento de que es un modelo de larga data con aplicaciones delictivas, demuestra que sigue teniendo vigencia, no porque sea bueno sino porque sigue siendo atractivo y rentable para los delincuentes o ciberdelincuentes. Vea un par de los casos más sonados:
 
-      figure(data-aos="fade-left")
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .crd--steps.p-4
+      PasosB.color-acento-contenido
+        .row.justify-content-center(titulo="")
+          .col-10
+            figure
+              img(src="@/assets/curso/tema4/img05.png", alt="alt")
+        .row.justify-content-center(titulo="")
+          .col-10
+            figure
+              img(src="@/assets/curso/tema4/img06.png", alt="alt")
+        .row.justify-content-center(titulo="")
+          .col-10
+            figure
+              img(src="@/assets/curso/tema4/img07.png", alt="alt")
+        .row.justify-content-center(titulo="")
+          .col-10
+            figure
+              img(src="@/assets/curso/tema4/img08.png", alt="alt")
+        .row.justify-content-center(titulo="")
+          .col-10
+            figure
+              img(src="@/assets/curso/tema4/img09.png", alt="alt")
+        .row.justify-content-center(titulo="")
+          .col-10
+            figure
+              img(src="@/assets/curso/tema4/img10.png", alt="alt")
+        .row.justify-content-center(titulo="")
+          .col-10
+            figure
+              img(src="@/assets/curso/tema4/img11.png", alt="alt")
+            
 </template>
 
 <script>
