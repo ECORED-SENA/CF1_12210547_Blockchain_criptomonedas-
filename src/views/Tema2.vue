@@ -164,8 +164,8 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0                    
-                    h4.mb-1 IBM <i>Blockchain</i>:
-                    p.text-small.mb-0 Transformando la financiación del comercio y el comercio.
+                    h4.mb-1 <i>Blockchain</i> de IBM:
+                    p.text-small.mb-0 Transformando las finanzas comerciales y el comercio.
                   .col-sm-auto
                     a.boton.color-acento-botones(href="https://cutt.ly/HAd2hFX" target="_blank")
                       span Ir a sitio web
