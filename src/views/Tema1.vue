@@ -102,7 +102,7 @@
               img(style="width: 159px; height: 159px" src='@/assets/curso/tema1/img10.png')
 
             h3.text-center.mb-5 Fondos de inversión cotizados (ETF) de <i>Blockchain</i>
-            p.text-center.mb-0 estos fondos de inversión cotizados o <i><i>exchange</i>-traded funds</i> (ETF) se tratan de fondos indexados que replican el funcionamiento de un índice bursátil, buscando tener una rentabilidad similar a la del índice.
+            p.text-center.mb-0 Estos fondos de inversión cotizados o <i><i>exchange</i>-traded funds</i> (ETF) se tratan de fondos indexados que replican el funcionamiento de un índice bursátil, buscando tener una rentabilidad similar a la del índice.
 
         .col-12.col-md-6.col-lg-3.d-flex.mb-lg-0.mb-4
           .tarjeta1.w-100.p-4.pt-5  

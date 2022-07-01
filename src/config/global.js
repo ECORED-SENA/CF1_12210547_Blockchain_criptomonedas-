@@ -118,11 +118,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      // {
-      //   icono: 'fas fa-download',
-      //   titulo: 'Descargar material',
-      //   download: 'downloads/material.zip',
-      // },
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -262,7 +262,7 @@ export default {
     {
       termino: '<i>Initial Coin Offering</i> (ICO)',
       significado:
-        'La oferta inicial de moneda es una forma de financiación para las empresas (comúnmente usado en los startups), que sirve para recolectar fondos a través de <i>tokens</i> o criptomonedas creadas por ellas mismas (Economía, 2021).',
+        'La oferta inicial de moneda es una forma de financiación para las empresas (comúnmente usado en los <i>startups</i>), que sirve para recolectar fondos a través de <i>tokens</i> o criptomonedas creadas por ellas mismas (Economía, 2021).',
     },
     {
       termino: '<i>Initial Public Offering</i> (IPO)',
